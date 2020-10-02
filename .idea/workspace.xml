@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4efd664b-d073-4bdf-8ff9-43f89027f9b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/graphs/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/Coordinate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/GraphCloner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/GraphCloner$GraphVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/GraphCloner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/GraphCloner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/MakingWiredConnectionORBipartiteGraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/MakingWiredConnectionORBipartiteGraph$GraphVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/MakingWiredConnectionORBipartiteGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/MakingWiredConnectionORBipartiteGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/MatchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/MazeSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/MazeSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/PaintABooleanMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eleOfProgInterviewJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eleOfProgInterviewJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +53,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../apps/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RunManager">
+    <configuration name="MatchResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatchResult" />
+      <module name="eleOfProgInterviewJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MatchResult" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -49,6 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1597323813335</updated>
       <workItem from="1597323817005" duration="1309000" />
+      <workItem from="1597639349723" duration="104000" />
+      <workItem from="1601625060223" duration="4152000" />
     </task>
     <task id="LOCAL-00001" summary="This project is for coding interview and have programs from the book: Elements of Coding Interview in Java">
       <created>1597323875997</created>
@@ -97,6 +128,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="606" y="276" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1597325742018" />
+    <state x="520" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601651338064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601651338064" />
+    <state x="474" y="190" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1601638853530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="190" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601638853530" />
     <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1597324495764">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -113,10 +152,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="606" y="311" width="324" height="275" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1597323967566" />
+    <state width="746" height="203" key="GridCell.Tab.0.bottom" timestamp="1601625446350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601625446350" />
+    <state width="746" height="203" key="GridCell.Tab.0.center" timestamp="1601625446350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601625446350" />
+    <state width="746" height="203" key="GridCell.Tab.0.left" timestamp="1601625446350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601625446350" />
+    <state width="746" height="203" key="GridCell.Tab.0.right" timestamp="1601625446350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601625446350" />
     <state x="362" y="133" key="Vcs.Push.Dialog.v2" timestamp="1597325461510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="362" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597325461510" />
+    <state x="479" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1601638074023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601638074023" />
     <state x="579" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597325452505">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -125,5 +184,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="179" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1597324054973" />
+    <state x="426" y="67" width="670" height="676" key="search.everywhere.popup" timestamp="1601638756042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="67" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601638756042" />
   </component>
 </project>
