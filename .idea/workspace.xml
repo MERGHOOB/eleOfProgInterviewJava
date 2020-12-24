@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4efd664b-d073-4bdf-8ff9-43f89027f9b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parallel_Computing/UnsafeSpellCheckService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parallel_Computing/UnsafeSpellCheckService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parallel_Computing/UnsafeSpellCheckService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/src/DutchFlag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/src/DutchFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/PrimMST$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/PrimMST$AdjVertex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/PrimMST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primitive/BitReverser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primitive/BitReverser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primitive/MulitplyAB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primitive/MulitplyAB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primitive/Parity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primitive/Parity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primitive/SameWeightClosestInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eleOfProgInterviewJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eleOfProgInterviewJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +104,7 @@
       <workItem from="1602418772000" duration="1114000" />
       <workItem from="1602563793058" duration="666000" />
       <workItem from="1607482724090" duration="1933000" />
-      <workItem from="1608803406103" duration="1148000" />
+      <workItem from="1608803406103" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="This project is for coding interview and have programs from the book: Elements of Coding Interview in Java">
       <created>1597323875997</created>
@@ -168,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602043928416</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Chapter: Arrays&#10;DutchFlag">
+      <created>1608806918469</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608806918469</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +169,8 @@
     <MESSAGE value="SmallestNonConstructableAmount: /**&#10; * Given an array of positive integers (representing coins), find the smallest value that cannot be constructed from those integers.&#10; * Reference: Elements of Programming Interviews in java, page 31&#10; */" />
     <MESSAGE value="Chapter: Graph" />
     <MESSAGE value="Chapter: Graph&#10;graph algorithms and questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter: Graph&#10;graph algorithms and questions" />
+    <MESSAGE value="Chapter: Arrays&#10;DutchFlag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter: Arrays&#10;DutchFlag" />
   </component>
   <component name="WindowStateProjectService">
     <state x="520" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601651338064">
@@ -193,10 +181,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="474" y="190" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601638853530" />
-    <state x="212" y="0" key="CommitChangelistDialog2" timestamp="1602043927138">
+    <state x="212" y="0" key="CommitChangelistDialog2" timestamp="1608806917847">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="212" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602043927138" />
+    <state x="212" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608806917847" />
     <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1602563851238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -237,10 +225,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="606" y="327" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1602043970933" />
-    <state x="362" y="133" key="Vcs.Push.Dialog.v2" timestamp="1602043932237">
+    <state x="362" y="133" key="Vcs.Push.Dialog.v2" timestamp="1608806921068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="362" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602043932237" />
+    <state x="362" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608806921068" />
     <state x="479" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1601638074023">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
